@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sanity" duration-ms="14749" started-at="2021-10-14T14:26:24 IST" finished-at="2021-10-14T14:26:39 IST">
+    <groups>
+    </groups>
+    <test name="Test Module" duration-ms="14749" started-at="2021-10-14T14:26:24 IST" finished-at="2021-10-14T14:26:39 IST">
+      <class name="base.ChooseBrowser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:base.ChooseBrowser@34e20e6b]" name="setUp" is-config="true" duration-ms="7132" started-at="2021-10-14T14:26:24 IST" finished-at="2021-10-14T14:26:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Seleniumtest1()[pri:0, instance:base.ChooseBrowser@34e20e6b]" name="Seleniumtest1" duration-ms="5700" started-at="2021-10-14T14:26:32 IST" finished-at="2021-10-14T14:26:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumtest1 -->
+        <test-method status="PASS" signature="Seleniumtest2()[pri:0, instance:base.ChooseBrowser@34e20e6b]" name="Seleniumtest2" duration-ms="0" started-at="2021-10-14T14:26:37 IST" finished-at="2021-10-14T14:26:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumtest2 -->
+        <test-method status="PASS" signature="Seleniumtest3()[pri:0, instance:base.ChooseBrowser@34e20e6b]" name="Seleniumtest3" duration-ms="0" started-at="2021-10-14T14:26:37 IST" finished-at="2021-10-14T14:26:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumtest3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:base.ChooseBrowser@34e20e6b]" name="tearDown" is-config="true" duration-ms="1876" started-at="2021-10-14T14:26:37 IST" finished-at="2021-10-14T14:26:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- base.ChooseBrowser -->
+    </test> <!-- Test Module -->
+  </suite> <!-- Sanity -->
+</testng-results>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sanity" duration-ms="16747" started-at="2021-10-14T13:26:37 IST" finished-at="2021-10-14T13:26:54 IST">
+    <groups>
+    </groups>
+    <test name="Test Module" duration-ms="16747" started-at="2021-10-14T13:26:37 IST" finished-at="2021-10-14T13:26:54 IST">
+      <class name="base.ChooseBrowser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:base.ChooseBrowser@73846619]" name="setUp" is-config="true" duration-ms="8654" started-at="2021-10-14T13:26:37 IST" finished-at="2021-10-14T13:26:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Seleniumtest1()[pri:0, instance:base.ChooseBrowser@73846619]" name="Seleniumtest1" duration-ms="6534" started-at="2021-10-14T13:26:46 IST" finished-at="2021-10-14T13:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumtest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:base.ChooseBrowser@73846619]" name="tearDown" is-config="true" duration-ms="1506" started-at="2021-10-14T13:26:52 IST" finished-at="2021-10-14T13:26:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Seleniumtest2()[pri:0, instance:base.ChooseBrowser@73846619]" name="Seleniumtest2" duration-ms="0" started-at="2021-10-14T13:26:52 IST" finished-at="2021-10-14T13:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumtest2 -->
+        <test-method status="PASS" signature="Seleniumtest3()[pri:0, instance:base.ChooseBrowser@73846619]" name="Seleniumtest3" duration-ms="0" started-at="2021-10-14T13:26:52 IST" finished-at="2021-10-14T13:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumtest3 -->
+      </class> <!-- base.ChooseBrowser -->
+    </test> <!-- Test Module -->
+  </suite> <!-- Sanity -->
+</testng-results>

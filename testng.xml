@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sanity" verbose="1">
+    <test name="Test Module">
+        <packages>
+            <package name="base" />
+            <package name="pages" />
+            <package name="testcases" />
+        </packages>
+        <parameter name = "text_to_search" value="iphones"/>
+        <classes>
+            <class name="testcases.SanityTestCases" />
+        </classes>
+    </test>
+</suite>
